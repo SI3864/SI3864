@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @SI3864 My name is Sevda.Iam from Turkey.I am  a teacher and I will be a Software QA Test Engineer also. 
+- 👀 I’m interested in software.I am excited to learn software.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+SI3864/SI3864 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
