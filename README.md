@@ -3,7 +3,7 @@
  #👋 Hi,My name is Sevda.I`m from Turkey.I am  a wife and a mum. I am Software QA Test Engineer and teacher also... 
 - 👀 I’m interested in software.I am excited to learn software.
 - 🌱 I’m currently  new programming languages.
-💬 Ask me about Java,SQL
+💬 Ask me about Java,OOP,SQL,Lambda,Selenium
 ⚡ Fun fact: I love to swim 🏊‍♀ , play table tennis and cycling 🚴‍♀️
 
 ## 🌐 Socials:
