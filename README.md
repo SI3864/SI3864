@@ -6,7 +6,8 @@
 💬 Ask me about Java,OOP,SQL,Lambda,Selenium
 ⚡ Fun fact: I love to swim 🏊‍♀ , play table tennis and cycling 🚴‍♀️
    
-
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismetsevdaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sevda-i%C5%9Fik-785290251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgC3SPb96QXKDPJ%2BTXdFovQ%3D%3D) 
@@ -27,11 +28,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
--
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
+ 
 
 
