@@ -9,8 +9,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismetsevdaaa) [(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sevda-i%C5%9Fik-785290251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgC3SPb96QXKDPJ%2BTXdFovQ%3D%3D) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismetsevdaaa) 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # 📊 GitHub Stats:
