@@ -1,6 +1,8 @@
 
 ## SEVDA IŞIK 
 #### #👋 Hi!  I`m from Turkey. I am Software QA Test Engineer, teacher ,a wife and a mum also... 
+- 👀 I’m interested in software.I am excited to learn software.
+⚡ Fun fact: I love to swim 🏊‍♀ , play table tennis and cycling 🚴‍
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+SEVDA+from+Turkey.;I+do+content+on+QA+Engineer.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)  
@@ -21,18 +23,11 @@
 
 
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br/> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SI3864&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br/> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzelkaraagac&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SI3864&show_icons=true)  
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
-
- #👋 Hi,My name is Sevda.I`m from Turkey. I am Software QA Test Engineer and teacher I am  a wife and a mum also... 
-- 👀 I’m interested in software.I am excited to learn software.
-- 🌱 I’m currently  new programming languages.
-💬 Ask me about Java,OOP,SQL,Lambda,Selenium,HTML,CSS
-⚡ Fun fact: I love to swim 🏊‍♀ , play table tennis and cycling 🚴‍♀️
-   
 
 
 ## 🌐 Socials:
