@@ -26,18 +26,17 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SI3864&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br/> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SI3864&show_icons=true)  
+ 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SI3864&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismetsevdaaa) 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SI3864&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SI3864&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SI3864&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SI3864&theme=radical&no-frame=false&no-bg=true&margin-w=4)
