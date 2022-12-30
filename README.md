@@ -4,7 +4,7 @@
 - 👀 I’m interested in software.I am excited to learn software.
 ⚡ Fun fact: I love coding 💻,  I love to swim 🏊‍♀ , play table tennis and cycling 🚴‍
 ⏲  I'm learning  to read code 🚀
-###  How to reach me? zelihausak1@gmail.com
+####  How to reach me? zelihausak1@gmail.com
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+SEVDA+from+Turkey.;I+do+content+on+QA+Engineer.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)  
 ## Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA | HTML | CSS
