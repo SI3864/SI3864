@@ -7,10 +7,10 @@
 ###  How to reach me? zelihausak1@gmail.com
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+SEVDA+from+Turkey.;I+do+content+on+QA+Engineer.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)  
-## Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA | HTML | CSS
+## Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA | HTML | CSS 
 
 
-> **🐍 Activity Snake**:
+ > **🐍 Activity Snake**:
  
 
 |![github-user-contribution (6)](https://user-images.githubusercontent.com/109308073/210966148-18099034-d443-450e-b167-cc8305550591.svg)|
