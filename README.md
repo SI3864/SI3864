@@ -29,7 +29,7 @@
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SI3864&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)  
 
 
 ## 🌐 Socials:
