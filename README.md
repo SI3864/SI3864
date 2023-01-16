@@ -1,5 +1,5 @@
 
-## SEVDA IŞIK 
+## SEVDA IŞIK  
 #### #👋 Hi! I`m from Turkey. I am Software QA Test Engineer, teacher ,a wife and a mum also... 
  👀 I’m interested in software.I am excited to learn software.
 ⚡ Fun fact: I love coding 💻,  I love to swim 🏊‍♀ , play table tennis and cycling 🚴‍
