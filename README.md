@@ -1,6 +1,6 @@
 
 ## SEVDA IŞIK  
-#### #👋 Hi! I`m from Turkey. I am Software QA Test Engineer, teacher ,a wife and a mum also... 
+#### #👋 Hi! I`m from Turkey. I am Software QA Test Engineer, teacher ,a wife and a mum also...  
 #### As world renowned entrepreneur Marc Andresson said  “Software is eating the world!”
 No matter what industry you work in software is an integral part of the business.Those who know programming now act as catalysts.That’s why I am improving myself in the software field. I’m all trying to make sence of myself in this world.
  
